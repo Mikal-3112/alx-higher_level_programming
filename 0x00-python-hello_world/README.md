@@ -1,1 +1,1 @@
-# 0x00-python-hello_world completed
+# 0x00-python-hello_world
